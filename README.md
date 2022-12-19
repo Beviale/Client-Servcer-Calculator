@@ -13,4 +13,4 @@ To run the client follow the path below:"Esonero 1 Client/Debug/Esonero1Client.e
 5) The client reads the response sent by the server and displays it on the standard output. <br>
 6) The client reads the next operation to be performed from the standard input. <br>
 7) If the character = is entered instead of an operation, the client closes the connection with the server and terminates its process here; otherwise, go back to step 3. <br>
-8) The server never terminates its process and must be able to accept a maximum queue of 5 clients (parameter qlen).
+8) The server never terminates its process and must be able to accept a maximum queue of 5 clients (qlen arameter).
