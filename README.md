@@ -1,6 +1,7 @@
 # Client-Server-Calculator
 <b>Development and implementation of a TCP client/server application written in c language, where the server is a basic remote calculator that responds to client requests. </b>
 
+<i>This is a university project of the computer networks course.</i>
 
 To run the server follow the path below:"Esonero 1 Server/Debug/Esonero1server.exe".
 To run the client follow the path below:"Esonero 1 Client/Debug/Esonero1Client.exe".
